@@ -1,6 +1,8 @@
 # Ripple-Prediction
 Use an LSTM to predict onset of sharp-wave ripple
 
+![alt text](https://github.com/EdMorrell/Ripple-Prediction/blob/main/Ripple.jpg)
+
 ## Code
 1. **Generate_Dataset.ipynb**: Used to create LFP_Seg.pkl file (a labelled dataset of 300ms LFP segments preceding ripple/no ripple segments with labels: 1 - Segment precedes sharp-wave ripple; 0 - Semgent does not precede sharp-wave ripple)
 
